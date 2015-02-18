@@ -1,0 +1,17 @@
+# Invite Team Coaches
+
+Welcome > Get Support > Contact IT > Add Info>**Invite Coaches**
+
+Invite Team Coaches
+Second Layer of Text[1]
+
+HI!
+
+John Smith has added you as a Team Coach on EduGuide.
+
+[Optional Custom Message]
+
+Please visit this link to get started:
+http://www.eduguie.org/12345
+
+Skip [Email Coaches]

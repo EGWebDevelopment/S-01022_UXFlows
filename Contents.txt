@@ -1,0 +1,8 @@
+About.txt
+documentation/coaches-onboarding-feature.txt
+content/chapter1.txt
+content/chapter2.txt
+content/chapter3.txt
+content/add-info.txt
+content/invite-team-coaches.txt
+content/lead-coach-invitation.txt

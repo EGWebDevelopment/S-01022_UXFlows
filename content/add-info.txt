@@ -1,0 +1,11 @@
+# Add Info
+
+Welcome > Get Support > Contact IT > **Add Info**> Invite Coaches
+
+## Enter Team Information
+Second layer of text
+
+Team Photo: [============]
+Team Name: [============]
+
+Skip [Save]

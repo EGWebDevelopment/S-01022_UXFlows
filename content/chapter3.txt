@@ -1,0 +1,25 @@
+# Contact IT
+
+Welcome > Get Support > **Contact IT** > Add Info > Invite Coaches
+
+##Let's Quickly Email IT
+
+Enter the name of your building's computer technician, technology lead, or network administrator, and we will send them an email asking them to prepare for students to use the EduGuide platform.
+
+IT Contacts Name: [=====]
+IT Contacts's Email: [=======]
+
+Dear IT,
+
+[ Optional Custom Message]
+
+Please review these tasks to ensure EduGuide performs properly for our students:
+
+1. Turn off firewall for EduGuide.org
+1. Ensure students can access EduGuide.org
+1. Another Task
+1. Another Task
+
+Thank you,
+
+Skip [Email IT]
